@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/login"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_sobreNos"
+            android:icon="@drawable/sobrenos"
+            android:title="Sobre nós" />
+        <item
+            android:id="@+id/nav_historia"
+            android:icon="@drawable/historia"
+            android:title="História" />
+    </group>
+
+    <item android:title="Acessibilidade">
+        <menu>
+            <item
+                android:id="@+id/nav_contato"
+                android:icon="@drawable/contato"
+                android:title="Contato" />
+            <item
+                android:id="@+id/nav_mensagem"
+                android:icon="@drawable/mensagem"
+                android:title="Mensagens" />
+        </menu>
+    </item>
+
+</menu>

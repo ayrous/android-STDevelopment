@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">STDevelopment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_historia">HistoriaActivity</string>
+    <string name="editNome">Nome</string>
+    <string name="editSenha">Senha</string>
+    <string name="textLogin">Login</string>
+    <string name="textBemVindo">Bem Vindo</string>
+    <string name="textSobreNos">Sobre Nós: Nossos Serviços</string>
+    <string name="title_activity_mensagem">MensagemActivity</string>
+    <string name="title_activity_contato">ContatoActivity</string>
+    <string name="textHistoria">Nossa História</string>
+    <string name="textComeco">Fundado em 4 de setembro de 1998, por Larry Page e Sergey Brin, o Google possui apenas 17 anos.</string>
+    <string name="textMeio">Sergey Brin, um russo, de Moscou, que foi para os EUA com apenas 6 anos, teve todo o apoio que precisava dentro de casa para trilhar o futuro que o levaria ao serviço mais famoso da internet: Seu pai era professor de matemática na universidade de Maryland e sua mãe uma cientista da NASA.</string>
+    <string name="btnAbrir">Entrar</string>
+    <string name="textServicos">Nossos Serviços</string>
+    <string name="textContato">Contato</string>
+    <string name="textEndereco">Rua Dr. Rubens Leme Machado,78</string>
+    <string name="editSugestao">Escreva algumja sugestão ou Reclamação!</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="textMensagem">Suas Mensagens</string>
+    <string name="textBemVindoHistoria">Descubra nossa História!</string>
+    <string name="textBemVindoMensagem">Veja suas Mensagens!</string>
+    <string name="textFinal">Larry Page também teve bons exemplos desde cedo. Americano, é filho de um cientista da computação da Universidade de Michigan, mesma instituição onde ele se formou em engenharia da computação, anos depois. Assim como seu companheiro do Google, seguiu os estudos até culminar em uma visita à Universidade de Stanford. Quem seria o encarregado de lhe mostrar o campus? Se você disse Sergey, acertou. O mais inusitado é que segundo relatos, eles discordaram de praticamente tudo neste primeiro encontro.</string>
+    <string name="textFinalSeason">Após este encontro, com os 2 já cursando doutorado em ciências da computação, em Stanford, começaram a trabalhar junto em pesquisa, resultando em artigos acadêmicos, como este, sobre “A Anatomia da Ferramenta de Busca Hipertextual na Web em Larga Escala”, que é nada mais nada menos do que a ideia original do seu algoritmo de pesquisa. Os estudos em conjunto e apontamentos dos dois resultou em um mecanismo de pesquisa chamado BackRub! – pois checava os backlinks dos sites – que viria a ser o protótipo do que conhecemos hoje como o buscador do Google.</string>
+</resources>
